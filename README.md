@@ -10,4 +10,4 @@ The dataset found on Kaggle, is supermarket sales, which give the datas for all 
 
 # Mapvizualisation 
 
-Where are positionned the most quantities, in which city of Myanmar?
+Where are positionned the most quantities, in which cities of Myanmar?
